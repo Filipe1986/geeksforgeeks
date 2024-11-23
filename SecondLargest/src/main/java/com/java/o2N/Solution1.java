@@ -1,7 +1,7 @@
 package com.java.o2N;
 
 public class Solution1 {
-    public int getSecondLargest(int[] arr) {
+    public static int getSecondLargest(int[] arr) {
 
         int biggest = Integer.MIN_VALUE;
         int secondLargest = -1;
