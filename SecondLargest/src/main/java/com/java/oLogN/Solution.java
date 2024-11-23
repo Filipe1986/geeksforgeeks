@@ -3,7 +3,7 @@ package com.java.oLogN;
 import java.util.Arrays;
 
 public class Solution {
-    public int getSecondLargest(int[] arr) {
+    public static int getSecondLargest(int[] arr) {
 
         Arrays.sort(arr);
         int largest = arr[arr.length-1];
