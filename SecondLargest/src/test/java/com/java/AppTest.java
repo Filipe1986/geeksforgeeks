@@ -21,6 +21,8 @@ public class AppTest  {
 
         Assertions.assertEquals(5, Solution1.getSecondLargest(new int[]{10, 5, 10}));
 
+
+
     }
 
 
